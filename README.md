@@ -31,8 +31,6 @@ Berikut adalah daftar ekstensi yang tersedia di repositori IndoStream:
 | Kuramanime    | Butuh VPN, Link Error             |
 | Kuronime      | Link Error                        |
 | LayarKaca     | Jalan                             |
-| Minioppai     | Error                             |
-| Nekopoi       | Butuh VPN                         |
 | Neonime       | Error                             |
 | Ngefilm       | Error                             |
 | Nimegami      | Jalan, perlu perbaikan menu       |
